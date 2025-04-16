@@ -1,0 +1,41 @@
+body{
+    background-color: darkkhaki;
+}
+h1{
+    text-align: center;
+}
+p{
+    background-color:red;
+    width:700px;
+    margin:100px 0px 0px 500px;
+    padding:50px;
+    text-align: justify;
+}
+p::first-letter{
+    color: blue;
+    font-size: x-large;
+
+}
+h6{
+    color: red;
+    font-size: 50px;
+}
+p::first-line{
+    color: aqua;
+    font-style: italic;
+
+}
+p::after{
+    content: 😘;
+}
+p::before{
+    content: ❤️;
+}
+p::selection{
+    color: rgb(28, 241, 231);
+    background-color: brown;
+}
+li::marker{
+     color: black;
+     font-size:80px;
+}

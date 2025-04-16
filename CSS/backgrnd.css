@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ501AcVFSGTQh2RQ4C5t74ZXj3EZvpGTeXmg&s);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    background-attachment: fixed;
+    color: aliceblue;
+}
+div{
+    height: 300px;
+    width: 300px;
+    background-image: url(image.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+}
+#demo{
+    height:200px;
+    width: 200px;
+    background-image: url(https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+    
+}

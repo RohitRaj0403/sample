@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div>h5{
+            color: blue;
+        }
+        h5~span{
+            color: yellowgreen;
+        }
+        h5+div{
+            color: brown;
+        }
+        h1~h4{
+            color: bisque;
+        }
+    </style>
+</head>
+<body>
+    <!-- combinator selector -->
+    <article>
+        <div>
+            <h6>red</h6>
+            <h5>blue</h5>
+            <span>yellow</span>
+            <span>pink</span>
+        </div>
+        <h5>green</h5>
+        <div>brown</div>
+
+    </article>
+    <h1>maroon</h1>
+    <h4>cats</h4>
+    <h4>cats</h4>
+</body>
+</html>

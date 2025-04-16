@@ -1,0 +1,25 @@
+nav{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    color: yellow;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+h2~h3{
+    color: aqua;
+}
+body{
+    background-image: url(https://media.istockphoto.com/id/1316145932/photo/table-top-view-of-spicy-food.jpg?s=612x612&w=0&k=20&c=eaKRSIAoRGHMibSfahMyQS6iFADyVy1pnPdy1O5rZ98=);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+}
+div{
+    height: 700px;
+    width: 100%;
+    background-image: url("https://media.istockphoto.com/id/1301325736/photo/portrait-of-young-woman-stock-photo.jpg?s=612x612&w=0&k=20&c=3JCr8f-EQOyrFCzDaLDYVZmWfhg29J-VMl0EVZfin-I="),url("https://media.istockphoto.com/id/488962065/photo/indian-man-eating.jpg?s=612x612&w=0&k=20&c=8NMZCorZz4s9Ne1fUf2t1s9ivgpWWky9vtWlUAx6XXQ=");
+    background-repeat: no-repeat,no-repeat;
+    background-size: 40% 250px , 40% 250px;
+    background-position: 80px 120px,680px 120px;
+}

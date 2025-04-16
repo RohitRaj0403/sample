@@ -1,0 +1,18 @@
+h3{
+    color: aqua; background-color: blueviolet;
+}
+.a{
+    color: blue; background-color: black;
+}
+h4{
+   color: aquamarine; background-color: bisque;
+}
+h5{
+    color: blanchedalmond; background-color: black;
+}
+p,article{
+    color: brown; background-color: beige;
+}
+* aside{
+    background-color: black;color: antiquewhite;
+}

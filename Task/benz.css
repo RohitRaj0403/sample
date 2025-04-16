@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2017/08/29/10/11/mercedes-benz-2692776_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    background-attachment: fixed;
+}
+#demo{
+    height: 400px;
+    width: 100%;
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/27/10/09/mercedes-benz-1862500_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 350px;
+    background-position: 0px 40px;
+}
+#demo div{
+    height: 1200px;
+    width: 100%;
+    background-image: url("https://cdn.pixabay.com/photo/2019/03/11/09/52/car-4048218_1280.jpg"),url("https://cdn.pixabay.com/photo/2015/05/01/13/36/sports-cars-748474_1280.jpg"),url("https://cdn.pixabay.com/photo/2016/11/27/10/15/mercedes-benz-1862513_1280.jpg");
+    background-repeat: no-repeat,no-repeat,no-repeat;
+    background-size:  25% 200px,25% 200px,25% 200px;
+    background-position: 100px 120px,480px 120px,850px 120px;
+}
+#demo1{
+    height: 700px;
+    width: 100%;
+    background-image: url(https://cdn.pixabay.com/photo/2022/10/03/20/52/car-7496848_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 400px;
+    background-position:0px 120px ;
+}
+#demo1 div{
+    height:1500px;
+    width: 100%;
+    background-image: url("https://cdn.pixabay.com/photo/2024/06/11/13/30/ai-generated-8823151_1280.jpg"),url("https://cdn.pixabay.com/photo/2019/10/06/18/49/mercedes-4530972_1280.jpg"),url("https://cdn.pixabay.com/photo/2017/03/29/14/37/mercedes-2185358_1280.jpg"),url("https://cdn.pixabay.com/photo/2017/03/27/14/56/auto-2179220_1280.jpg");
+    background-repeat: no-repeat,no-repeat,no-repeat,no-repeat;
+    background-size:17% 180px,17% 180px,17% 180px,17% 180px ;
+    background-position: 150px 220px,400px 220px, 650px 220px,900px 220px ;
+}
